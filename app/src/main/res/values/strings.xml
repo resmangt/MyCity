@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MyCity</string>
+    <string name="list_fragment_category">Categoria</string>
+    <string name="list_sites">Sitios</string>
+    <string name="site_details">Detalles Del Sitio</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="hotels">Hoteles</string>
+    <string name="museums">Museos</string>
+    <string name="malls">Centros Comerciales</string>
+    <string name="pharmacy">Farmacias</string>
+
+    <string name="estrella_del_amanecer">Estrella del Amanecer Gourmet</string>
+    <string name="sazón_del_mar">Sazón del Mar Azul</string>
+    <string name="la_cocina_de_la_luna">La Cocina de la Luna</string>
+    <string name="bocado_de_paraiso">Bocado de Paraíso</string>
+
+    <string name="aurora_elegance_resort">Aurora Elegance Resort</string>
+    <string name="villa_celestial_vista">Villa Celestial Vista</string>
+    <string name="el_refugio_de_los_sueños">El Refugio de los Sueños</string>
+    <string name="palacio_nomada_boutique">Palacio Nómada Boutique</string>
+    <string name="jardines_del_eden">Jardines del Edén Retreat</string>
+
+    <string name="museo_galeria_cosmos_de_las_artes">Galería Cosmos de las Artes</string>
+    <string name="museo_de_la_herencia">Museo de la Herencia del Tiempo</string>
+    <string name="santuario_de_historia">Santuario de Historia y Ciencia</string>
+
+    <string name="megamall">MegaMall</string>
+    <string name="el_oasis_de_la_ciudad">El Oasis de la Ciudad</string>
+    <string name="plaza_del_sol">Plaza del Sol</string>
+
+    <string name="farmacia_vida_verde">Farmacia Vida Verde</string>
+    <string name="botica_del_alivio">Botica del Alivio</string>
+    <string name="farmacia_salud_eterna">Farmacia Salud Eterna</string>
+    <string name="cuidado_y_bienestar">Cuidado y Bienestar Botiquín</string>
+
+    <string name="site_detail_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse
+        eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
+        diam fringilla tellus, eu euismod mauris neque at neque.
+    </string>
+
+</resources>
